@@ -1,2 +1,4 @@
 # daaaaaaaaaaaaaataaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaasssssseeeeeeeeeeeeeeeeeeee
-Work 6
+
+how to kill students + programming office:
+DROP TABLES students, courses;
