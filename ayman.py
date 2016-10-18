@@ -24,4 +24,4 @@ for student in data:
         ctr = 0
         avg = 0
         curStudent = ""
-
+print "ayman has a SELECT mark FROM students WHERE mark < 65 gpa"
